@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-jhdfasfgauksa, fskdfskdjf, This changes is in ram branch
-=======
-jhdfasfgauksa, fskdfskdjf, This changes is in shyam branch
->>>>>>> shyam
-=======
-jhdfasfgauksa
->>>>>>> parent of 9f91cd3 (created a new file and added some content in git file)
+master branch
